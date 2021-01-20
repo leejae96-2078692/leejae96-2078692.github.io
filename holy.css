@@ -1,0 +1,19 @@
+body{
+    background-image: url('dark_wood.png');
+}
+h2{
+    color: #6ef5fa;
+    font-size: 40px; 
+    font-family: "Passion One";
+    margin-bottom: 0px;
+ }
+ legend{
+     color: #faf86e
+ }
+label{
+    color: #6efa91
+}
+th{
+    color: #6ef5fa
+}
+input{color: #faf86e}
